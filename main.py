@@ -1,0 +1,1 @@
+que = int(input("give me a number"))
